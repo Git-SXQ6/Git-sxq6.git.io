@@ -1,0 +1,5 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-uk"
+title = "Qian's Personal Website"
+theme = "hugo-profile"
+author = "Xiaoqian Shen"
