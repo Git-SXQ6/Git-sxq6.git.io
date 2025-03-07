@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://Git-SXQ6.github.io/"
 languageCode = "en-gb"
 title = "Qian's Personal Website"
 theme = "hugo-profile"
