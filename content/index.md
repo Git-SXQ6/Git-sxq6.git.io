@@ -1,5 +1,6 @@
 ---
-title: "Welcome to Qian's Website"
+Title: "Welcome to Qian's Website"
+Author: "Xiaoqian Shen"
 ---
 
 ## Welcome to My Hugo Site
