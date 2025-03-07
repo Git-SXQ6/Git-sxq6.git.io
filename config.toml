@@ -1,4 +1,4 @@
-baseURL = "https://git-sxq6.github.io/Git-SXQ6.git.io/"
+baseURL = "https://git-sxq6.github.io/Git-SXQ6/"
 languageCode = "en-gb"
 title = "Qian's Personal Website"
 theme = "hugo-profile"
